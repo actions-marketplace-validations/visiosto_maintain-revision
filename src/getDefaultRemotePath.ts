@@ -1,5 +1,5 @@
 // Copyright (c) 2021 Visiosto oy
-// Licensed under the MIT License
+// Licensed under the Apache License, Version 2.0
 
 export default function getDefaultRemotePath(version: string): string {
   const repository = process.env.GITHUB_REPOSITORY?.split('-').join('_');
