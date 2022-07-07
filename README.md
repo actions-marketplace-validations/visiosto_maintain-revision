@@ -48,4 +48,4 @@ This project adheres to the Contributor Covenant [Code of Conduct](https://githu
 
 ## Licence
 
-Maintain Revision is licensed under the [Apache License, Version 2.0](LICENCE).
+Maintain Revision is licensed under the [Apache License, Version 2.0](LICENSE).
